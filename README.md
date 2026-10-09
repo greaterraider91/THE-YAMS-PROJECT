@@ -1,4 +1,5 @@
 # Important Information!
+Go to https://tiktok.me/group/ZPLjApGr4/! This repo will be PRIVATED soon!
 Hot Sweaty Yams Factories is moving URLs! The URL has not been decided yet, but services will be up again soon.
 
 # Hot Sweaty Yams Factories
