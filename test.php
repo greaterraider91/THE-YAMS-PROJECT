@@ -10,5 +10,5 @@
 </body>
 </html>
 <?php
-  echo $_GET["You've liked these yams! :]"]
+  echo $_GET[Liked!]
 ?>
