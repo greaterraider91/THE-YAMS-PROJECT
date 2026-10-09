@@ -5,10 +5,10 @@
 </head>
 <body>
   <form action="test.php" method="get">
-  <input type=submit value="Like">
+  <input type=text value="Comment!" name="comment">
   </form>
 </body>
 </html>
 <?php
-  echo $_GET["like"]
+  echo $_GET["comment"]
 ?>
