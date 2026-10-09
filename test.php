@@ -10,5 +10,5 @@
 </body>
 </html>
 <?php
-  echo $_GET[Liked!]
+  echo $_GET["like"]
 ?>
