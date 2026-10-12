@@ -2,6 +2,11 @@
 <html>
 <head>
   <title>PHP Test</title>
+  <style>
+    .button {
+      border: none;
+    }
+  </style>
 </head>
 <body>
   <img src="https://files.catbox.moe/p2efx5.jpeg" height="400">
