@@ -2,18 +2,13 @@
 <html>
 <head>
   <title>PHP Test</title>
-  <style>
-    .button {
-      border: none;
-    }
-  </style>
 </head>
 <body>
   <img src="https://files.catbox.moe/p2efx5.jpeg" height="400">
   <form action="test.php" method="get">
   <h1>This is a testing page, not all features are implemented, and there might be bugs.</h1>
   <input type=text name="comment">
-  <input type=submit value="Comment!">
+  <input type=submit value="Comment!" style="border: none;">
   <p hidden>Comment successful!</p>
   </form>
 </body>
