@@ -11,6 +11,12 @@
   <input type=submit value="Comment!" style="border: none; box-shadow: 5px 10px;">
   <p hidden>Comment successful!</p>
   </form>
+
+  <form action="upload.php" method="post" enctype="multipart/form-data">
+  Upload:
+  <input type="file" name="fileToUpload" id="fileToUpload">
+  <input type="submit" value="Upload Image" name="submit">
+</form>
 </body>
 </html>
 <?php
