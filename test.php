@@ -15,5 +15,5 @@
 </body>
 </html>
 <?php
-  echo $_GET["username", "comment"]
+  echo $_GET["username"] ["comment"]
 ?>
