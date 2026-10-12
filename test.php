@@ -7,16 +7,13 @@
   <img src="https://files.catbox.moe/p2efx5.jpeg" height="400">
   <form action="test.php" method="get">
   <h1>This is a testing page, not all features are implemented, and there might be bugs.</h1>
+  <input type=submit value="Like!" style="border: none; box-shadow: 5px 10px;">
+  </form>
+  <form action="test.php" method="get">
   <input type=text name="comment">
   <input type=submit value="Comment!" style="border: none; box-shadow: 5px 10px;">
   <p hidden>Comment successful!</p>
   </form>
-
-  <form action="upload.php" method="post" enctype="multipart/form-data">
-  Upload:
-  <input type="file" name="fileToUpload" id="fileToUpload">
-  <input type="submit" value="Upload Image" name="submit">
-</form>
 </body>
 </html>
 <?php
