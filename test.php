@@ -8,7 +8,7 @@
   <form action="test.php" method="get">
   <h1>This is a testing page, not all features are implemented, and there might be bugs.</h1>
   <input type=text name="comment">
-  <input type=submit value="Comment!" style="border: none;">
+  <input type=submit value="Comment!" style="border: none; box-shadow: 5px 10px;">
   <p hidden>Comment successful!</p>
   </form>
 </body>
