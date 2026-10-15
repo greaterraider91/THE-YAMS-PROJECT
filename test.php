@@ -13,9 +13,10 @@
   <input type=text name="comment">
   <input type=submit value="Comment!" style="border: none; box-shadow: 5px 10px;">
   <p hidden>Comment successful!</p>
+  <input type=text value="Commented on this post!" name="commmessage" hidden>
   </form>
 </body>
 </html>
 <?php
-  echo $_GET["comment"]
+  echo $_GET["commmessage"]
 ?>
