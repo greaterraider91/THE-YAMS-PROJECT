@@ -15,8 +15,21 @@
   <p hidden>Comment successful!</p>
   <input type=text value="Commented on this post!" name="commmessage" hidden>
   </form>
+  <form action="test.php" method="get">
+    <input type=submit value="Catbox API Testing" style="border: none; box-shadow: 5px 10px;">
+  </form>
 </body>
 </html>
 <?php
-  echo $_GET["commmessage"]
+  //echo $_GET["commmessage"]
+
+  echo "Catbox.Moe API - Uploaded"
+
+  $ch = curl_init(); 
+
+  curl_setopt($ch, CURLOPT_URL, 'https://catbox.moe/user/api.php');
+  curl -F "reqtype=fileupload" -F "userhash=####" -F "fileToUpload=@logo.png" https://catbox.moe/user/api.php
+  
+
+  curl_close($ch);
 ?>
