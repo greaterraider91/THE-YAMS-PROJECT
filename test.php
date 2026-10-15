@@ -25,5 +25,5 @@
 
   echo "Catbox.Moe API - Uploaded"
 
-  curl -F "reqtype=fileupload" -F "userhash=####" -F "fileToUpload=@logo.png" https://catbox.moe/user/api.php
+  curl, -F "reqtype=fileupload" -F "userhash=####" -F "fileToUpload=@logo.png" https://catbox.moe/user/api.php
 ?>
