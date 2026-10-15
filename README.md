@@ -10,3 +10,4 @@ Link : https://tiktok.me/group/ZPLjApGr4/!
 - Liking
 - Commenting
 - Accounts
+- Saving to albums
