@@ -5,7 +5,7 @@
 </head>
 <body>
   <img src="https://files.catbox.moe/p2efx5.jpeg" height="400">
-  <form action="test.php" method="get">
+  <form action="likemessage.php" method="get">
   <h1>This is a testing page, not all features are implemented, and there might be bugs.</h1>
   <input type=submit value="Like!" style="border: none; box-shadow: 5px 10px;">
   </form>
