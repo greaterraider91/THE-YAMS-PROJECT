@@ -5,3 +5,8 @@ Hot Sweaty Yams Factories is a company on TikTok that makes yams for users, like
 Simple! join the groupchat on TikTok and ask for yams!
 
 Link : https://tiktok.me/group/ZPLjApGr4/!
+
+# TO-DO
+- Liking
+- Commenting
+- Accounts
