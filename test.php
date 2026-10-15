@@ -25,11 +25,5 @@
 
   echo "Catbox.Moe API - Uploaded"
 
-  $ch = curl_init(); 
-
-  curl_setopt($ch, CURLOPT_URL, 'https://catbox.moe/user/api.php');
   curl -F "reqtype=fileupload" -F "userhash=####" -F "fileToUpload=@logo.png" https://catbox.moe/user/api.php
-  
-
-  curl_close($ch);
 ?>
